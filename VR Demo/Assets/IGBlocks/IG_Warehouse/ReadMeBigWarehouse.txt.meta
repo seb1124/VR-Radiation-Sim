@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f4c9226877f04a4f84afdee3312afb9
+timeCreated: 1501868574
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 96082
+  packageName: Big Warehouse Pack
+  packageVersion: 1.0
+  assetPath: Assets/IGBlocks/IG_Warehouse/ReadMeBigWarehouse.txt
+  uploadId: 193919
